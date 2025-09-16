@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepe6500)](https://solved.ac/pepe6500/)
 
-[![Programmers Profile](https://img.shields.io/badge/Programmers-Profile-blue?style=flat&logo=programmers&logoColor=white)](https://programmers.co.kr/pr/pepe6500)
+[![Programmers Profile](https://img.shields.io/badge/Programmers-Profile-blue?style=flat&logo=programmers&logoColor=white)](https://programmers.co.kr/pr/pepe65004514@gmail.com)
 
 <!--**pepe6500/pepe6500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
