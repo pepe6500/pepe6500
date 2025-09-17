@@ -54,7 +54,7 @@ Programming Languages
 - **2015.12**: 정보처리기능사 (최종합격, 한국산업인력공단)
 
 ### 🚗 기타 면허
-- **2020.09**: 자동차운전면허 (최종합격, 경찰청[운전면허시험관리단])
+- **2020.09**: 자동차운전면허 2종 보통 (최종합격, 경찰청[운전면허시험관리단])
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepe6500)](https://solved.ac/pepe6500/)
