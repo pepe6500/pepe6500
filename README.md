@@ -1,3 +1,5 @@
+# 김동완 (Dongwan Kim)
+게임을 사랑하는 프론트엔드 프로그래머입니다.
 ##
 🛠️ Languages & Platforms
 ###
