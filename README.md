@@ -5,22 +5,22 @@
 ###
 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Development Platforms & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework"/>
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logoColor=white" alt="Windows Forms"/>
-  <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework"/>
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logoColor=white" alt="Windows Forms"/>
+  <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension"/>
 </p>
 
 ---
@@ -46,8 +46,19 @@ Programming Languages
 - 🃏 Dragon Ace Casino - MassBaccarat InGame 프론트엔드 개발
 - 🃏 Dragon Ace Casino - Hold'em InGame 프론트엔드 개발
 
+## 🏆 수상 경력
+### 🏅 총장상 (2025.08)
+- **기관**: 명지대학교
+
+### 🏅 제 1 회 한국코드페어 SW 를 통한 착한상상 - 동상 (2019.10)
+- **상명**: 한국정보과학회장상
+- **주최**: 과학기술정보통신부
+
 ## 📜 자격증·면허
 ### 🎯 IT 자격증
+- **2025.09**: Google AI Essentials (2025.09 ~ 2025.09)
+  - 생성형 AI 를 활용한 업무 자동화 및 생산성 향상 능력
+  - 효과적인 프롬프트 엔지니어링 및 데이터 기반의 문제 해결 능력
 - **2024.11**: 파이썬프로그래밍활용능력 2급 (최종합격, 한국정보인재개발원)
 - **2024.11**: 인공지능활용분석 2급 (최종합격, 한국정보인재개발원)
 - **2024.10**: 6시그마BB (최종합격, 한국정보인재개발원)
