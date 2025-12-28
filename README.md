@@ -56,6 +56,8 @@ Programming Languages
 
 ## 📜 자격증·면허
 ### 🎯 IT 자격증
+- **2025.12**: ISTQB CTFL (최종합격, ISTQB)
+  - 국제 SW QA 자격
 - **2025.09**: Google AI Essentials (2025.09 ~ 2025.09)
   - 생성형 AI 를 활용한 업무 자동화 및 생산성 향상 능력
   - 효과적인 프롬프트 엔지니어링 및 데이터 기반의 문제 해결 능력
