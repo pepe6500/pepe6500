@@ -43,6 +43,7 @@ Programming Languages
 - Unity 기반 모바일 게임 프론트엔드 개발
 
 **주요 프로젝트**:
+- [무한의 곡괭이](https://play.google.com/store/apps/details?id=com.Dawnlight.InfinitePickaxe&hl=ko) - 프론트엔드&백엔드 프로그래밍 전체, 출시 준비 등 팀 대표로 진행
 - 🃏 Dragon Ace Casino - MassBaccarat InGame 프론트엔드 개발
 - 🃏 Dragon Ace Casino - Hold'em InGame 프론트엔드 개발
 
@@ -71,4 +72,4 @@ Programming Languages
 - **2020.09**: 자동차운전면허 2종 보통 (최종합격, 경찰청[운전면허시험관리단])
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepe6500)](https://solved.ac/pepe6500/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepe6500)](https://solved.ac/pepe6500/)-->
